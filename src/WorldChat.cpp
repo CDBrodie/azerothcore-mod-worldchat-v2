@@ -404,8 +404,7 @@ Acore::ChatCommands::ChatCommandTable WC::WorldChat::GetCommands() const
     static Acore::ChatCommands::ChatCommandTable commandTable =
     {
         { "world", worldCommandTable },
-        { "chat", worldCommandTable },
-
+       
         { "worldgm", HandleWorldChatAnnounceCommand, SEC_MODERATOR, Acore::ChatCommands::Console::No },
         { "worldh", HandleWorldChatHordeCommand, SEC_MODERATOR, Acore::ChatCommands::Console::No },
         { "worlda", HandleWorldChatAllianceCommand, SEC_MODERATOR, Acore::ChatCommands::Console::No },

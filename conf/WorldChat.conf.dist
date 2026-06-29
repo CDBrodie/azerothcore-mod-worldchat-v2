@@ -1,0 +1,15 @@
+[worldserver]
+
+WorldChat.Enable = 1
+WorldChat.CrossFaction = 1
+WorldChat.Announce = 0
+WorldChat.ChannelName = "world"
+WorldChat.OnLogin.State = 1
+WorldChat.Tag = "[World]"
+
+WorldChat.MinimumLevel = 10
+
+WorldChat.Flood.WindowSeconds = 10
+WorldChat.Flood.WarnCount = 3
+WorldChat.Flood.MuteCount = 5
+WorldChat.Flood.MuteSeconds = 60

@@ -1,4 +1,4 @@
-# Enhanced World Chat
+# Enhanced World Chat for AzerothCore
 
 A modern, feature-rich World Chat module for AzerothCore.
 

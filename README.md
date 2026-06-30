@@ -44,6 +44,16 @@ Requires a current AzerothCore installation.
 - Lightweight with minimal overhead
 
 ---
+# Screenshots
+
+| World Chat / Auto Detect Taggging | Faction Only for GMs |
+|:-----------:|:-------------------:|
+| <img src="screens/Chat1_Screen.png" width="500"> | <img src="screens/Chat2_Screen.png" width="500"> |
+
+| Link Blocking and Spam Protection |
+|:---------------:|
+| <img src="screens/Chat3_Screen.png" width="700"> |
+
 
 # Commands
 
